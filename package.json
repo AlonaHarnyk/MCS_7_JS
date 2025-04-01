@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "watch": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "@web/dev-server": "^0.4.6"
+  }
+}
